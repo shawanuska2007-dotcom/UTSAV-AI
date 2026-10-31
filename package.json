@@ -1,0 +1,11 @@
+{
+  "name": "utsav-ai",
+  "version": "1.0.0",
+  "description": "UTSAV AI: celebration and event planner (weddings, birthdays, community events)",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "start": "npx --yes serve ."
+  },
+  "engines": { "node": ">=18" }
+}
